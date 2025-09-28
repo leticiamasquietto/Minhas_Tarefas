@@ -24,10 +24,12 @@ Tudo em **uma única página** usando AJAX para operações assíncronas.
 ## Banco de dados
 Importar `tarefas.sql` no phpMyAdmin 
 
-CREATE TABLE IF NOT EXISTS tarefas (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  titulo VARCHAR(140) NOT NULL,
-  descricao TEXT,
-  status ENUM('pendente','concluida') NOT NULL DEFAULT 'pendente',
-  criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+CREATE TABLE `tarefas` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `titulo` varchar(140) NOT NULL,
+  `descricao` text DEFAULT NULL,
+  `status` enum('pendente','concluida') DEFAULT 'pendente',
+  `criado_em` timestamp NOT NULL DEFAULT current_timestamp(),
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
