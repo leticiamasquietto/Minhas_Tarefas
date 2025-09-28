@@ -1,0 +1,6 @@
+/db.php
+.env
+node_modules/
+.vscode/
+*.log
+*.sqlite
