@@ -1,6 +1,6 @@
 # Minhas Tarefas - Desenvolvimento de Aplicações Web I
 
-**Aluno:** Letícia Masquietto de Oliveira Silva  
+**Acadêmica:** Letícia Masquietto de Oliveira Silva  
 **Disciplina:** Desenvolvimento de Aplicações para Web I  
 **Tecnologias:** PHP (PDO), MySQL, jQuery (AJAX), Bootstrap 5
 
@@ -32,4 +32,6 @@ CREATE TABLE `tarefas` (
   `criado_em` timestamp NOT NULL DEFAULT current_timestamp(),
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+
 
