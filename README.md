@@ -44,10 +44,10 @@ Já aqui, adicionei um título aleatório e uma descrição para "provar" que fo
 Logo após, o título e a descrição adicionadas que estavam com o status pendente, mudou para concluído, após ter clicado no botão "CONCLUIR".
 ![SelecioneiComoConcluido](https://github.com/user-attachments/assets/eca9226f-2560-4e02-bb9e-39bcbefeca7b)
 
-Depois disso, adicionei mais um título e uma descrição aleatória, para mostrar que posso colocar mais do que apenas um título e descrição.
+Depois disso, adicionei mais um título e uma descrição aleatória, para mostrar que posso colocar mais do que apenas um.
 ![AdicioneiMaisTitulo_Descricao](https://github.com/user-attachments/assets/b6e8bde2-c038-4fc7-b60e-d3885ba3af64)
 
-Dessa forma, depois de ter posto o último título e descrição, o apaguei. Deixando então, apenas o primeiro.
+Dessa forma, depois de ter posto o último título e descrição, os apaguei. Deixando então, apenas o primeiro.
 ![ApagueiUltimoAdicionado](https://github.com/user-attachments/assets/0e455bf1-69e7-43cf-b057-14484ec39232)
 
 
