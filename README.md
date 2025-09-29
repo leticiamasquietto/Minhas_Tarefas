@@ -33,5 +33,9 @@ CREATE TABLE `tarefas` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+TELA DO TRABALHO MINHAS_TAREFAS
+
+Nesta primeira imagem, é a tela (única) mostrando as opções solicitadas no trabalho.
+![TelaComTodasAsOpcoes](https://github.com/user-attachments/assets/63184d32-2fd1-4d3f-a823-8eb2e6d06bab)
 
 
